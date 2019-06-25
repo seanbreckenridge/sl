@@ -8,3 +8,9 @@ all.
 Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
 
 ![](demo.gif)
+
+### Changes
+
+Increased speed by x2.6
+
+To install, `make` and copy the binary to somewhere on your path.
